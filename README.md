@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+news application its app for sports news or sincere nwes or Public news 
+i usd bloc/cubit , api , dip helper to handling https requests ,  
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
